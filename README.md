@@ -26,8 +26,6 @@ This repository contains tasks completed during the **TechNest Data Analytics In
 ## 📁 Deliverables
 
 * Jupyter notebooks
-* Excel dashboard
-* Power BI `.pbix` file
-* Resume + LinkedIn optimization (optional)
+
 
 
